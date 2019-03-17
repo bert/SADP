@@ -1,15 +1,17 @@
 # SADP - Sea Angling Diary Project
 
-![Number of fishing sessions](number-of-fishing-sessio.png)
+![Number of fishing sessions](number-of-fishing-sessions-by-month.png)
 
-![Hours spent fishing - by month](hours-spent-fishing-by-m.png)
+![Hours spent fishing - by month](hours-spent-fishing-by-month.png)
 
-![Average of hours spent fishing](average-hours-spent-fish.png)
+![Average of hours spent fishing by month](average-hours-spent-fishing-by-month.png)
 
-![Number of fish kept and returned](number-of-fish-kept-retu.png)
+![Number of fish kept and returned](number-of-fish-kept-and-returned.png)
 
-![Number of fish total by species kept and returned](number-of-fish-total-by.png)
+![Number of fish total by species](number-of-fish-total-by-species.png)
 
-![Average length of fish by species](average-length-cm-of-fis.png)
+![Number of fish total by species kept and returned](number-of-fish-total-by-species-kept-and-returned.png)
 
-![Maximum length of fish by species](max-length-cm-of-fish-by.png)
+![Average length of fish by species](average-length-cm-of-fish-by-species.png)
+
+![Maximum length of fish by species](max-length-cm-of-fish-by-species.png)
