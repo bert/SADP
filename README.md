@@ -1,6 +1,6 @@
 # SADP
 Sea Angling Diary Project
 
-[Number of fishing sessions](number-of-fishing-sessio.png)
+![Number of fishing sessions](number-of-fishing-sessio.png)
 
-[Average of hours spent fishing](average-hours-spent-fish.png.png)
+![Average of hours spent fishing](average-hours-spent-fish.png.png)
