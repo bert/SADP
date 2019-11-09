@@ -1,6 +1,6 @@
 set term png
 set output "number_of_fishing_sessions.png"
-set title "Number of Fishing Sessions"
+set title "Number of Fishing Sessions - By Month"
 set style data histogram
 set style fill solid border -1
 set ylabel "Number of Fishing Sessions [-]"
